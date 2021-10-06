@@ -50,7 +50,7 @@ gem 'jquery-rails'
 
 gem 'ransack'
 
-gem 'sidekiq', '< 5'
+gem 'sidekiq', '< 6'
 
 gem 'hiredis'
 gem 'redis'
